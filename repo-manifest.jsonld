@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/facebookresearch/detectron2/commit/1e3e13bbf607b54f62205c4c33922521822fb298",
       "git:hexsha": "1e3e13bbf607b54f62205c4c33922521822fb298",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/facebookresearch/detectron2/commit/1a7daee064eeca2d7fddce4ba74b74183ba1d4a0",
