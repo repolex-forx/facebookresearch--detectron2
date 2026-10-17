@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "detectron2",
+  "versions": [
+    {
+      "commit": "1e3e13bbf607b54f62205c4c33922521822fb298",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:36:26.194624+00:00"
+    }
+  ]
+}
